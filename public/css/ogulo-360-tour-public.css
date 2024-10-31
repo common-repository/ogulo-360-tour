@@ -1,0 +1,40 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ .ogulo_tour_handler.before{
+ 	width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    border: 1px solid skyblue;
+    padding: 2px;
+    background-color: #fff;
+    cursor: pointer;
+ }
+ .before .ogulo_tour_handler_inner{
+ 	border: 1px solid lightgray;
+    padding: 0 20px;
+ }
+ .ogulo_tour_handler {
+    
+}
+
+.ogulo_tour_handler_inner {
+    
+}
+
+.ogulo_tour_handler img {
+    display: inline-block;
+    vertical-align: middle;
+    width: 90px;
+}
+
+.ogulo_tour_handler p {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    padding: 0;
+    margin-left: 20px;
+    font-size: 20px;
+}
